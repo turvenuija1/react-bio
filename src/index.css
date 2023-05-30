@@ -1,0 +1,54 @@
+body {
+  background-image: linear-gradient(to right, #533c9b, #1212c9);
+}
+
+h1 {
+  margin-left: 5%;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+
+p {
+  margin-left: 10%;
+  color: white;
+  font-family: sans-serif;
+}
+
+button {
+  border: none;
+  background-color: #1212c9;
+  
+  color: white;
+  border-radius: 8px;
+  width: 10%;
+  height: 5%;
+  transition-duration: 0.3s;
+  padding: 14px 14px;
+  margin-left: 15%;
+  cursor: pointer;
+  
+}
+
+button:hover {
+  background-color: #0e0ea0;
+  transition-duration: 0.3s;
+}
+
+#hidden {
+  display: none;
+}
+
+.container {
+  background-color: rgba(14, 33, 87, 0.26);
+  border-radius: 16px;
+  height: 30%;
+  width: 35%;
+  margin-left: 15%;
+  padding: 14px 16px;
+  margin-top: 2%;
+}
+
+h3 {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
