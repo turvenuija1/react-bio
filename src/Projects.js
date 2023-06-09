@@ -8,7 +8,7 @@ function Projects() {
             <h3>My projects</h3>
             <p><li>The not2b2t minecraft anarchy server</li></p>
             <p><li>The skidd.xyz bio service</li></p>
-            <p><li>And other secret projects... stay tuned...</li></p>
+            <p><li>And other secret projects...</li></p>
         </div>
     )
 }
