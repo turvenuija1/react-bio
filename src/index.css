@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Andika&family=Ubuntu:wght@300&display=swap');
+
 
 body {
     background: rgb(2,0,36);
@@ -28,7 +28,7 @@ body {
 
 .name {
     color: white;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Courier New', monospace;
 }
 
 .about {
