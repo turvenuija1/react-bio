@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Ubuntu:wght@300&display=swap');
+
 body {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,71,121,1) 100%, rgba(0,212,255,1) 100%);
@@ -26,7 +28,7 @@ body {
 
 .name {
     color: white;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .about {
